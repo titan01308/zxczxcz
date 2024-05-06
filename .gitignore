@@ -1,2 +1,5 @@
 # Dependency directories
 node_modules/
+.babelrc
+tsconfig.json
+webpack.config.js
